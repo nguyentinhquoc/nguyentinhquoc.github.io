@@ -1,0 +1,182 @@
+/* --------------- */
+.ttmn {
+    text-align: center;
+    margin: 0px;
+    color: #10a88c;
+    padding: 20px 0px 20px 0px;
+}
+}
+
+.none {
+    padding: 100px 0px 0px 0px;
+}
+
+.container1 {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 57px 0px 0px 0px;
+
+}
+
+
+
+.background {
+    flex: 80%;
+    padding: 90px 0px 0px 0px;
+
+}
+
+.container2 {
+    padding: 0px 167px 0px 167px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.mot {
+    flex: 30%;
+}
+
+.hai {
+    flex: 30%;
+}
+
+.ba {
+    flex: 30%;
+}
+
+.anh1 {
+    float: right;
+    border-radius: 40px;
+    padding: 10px 10px 10px 10px;
+
+    border-bottom: 1px solid red
+}
+
+.textnd1 {
+    float: right;
+    padding: 0px 0px 0px 200px;
+
+    color: #c66015;
+}
+
+.textnd2 {
+    padding: 0px 200px 5px 0px;
+    float: left;
+    color: #c66015;
+
+}
+
+.anh2 {
+    border-top: 1px solid blue;
+    border-radius: 40px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.ba {
+    border: 1px solid;
+}
+
+.ba1 {
+    color: red;
+    font-size: 25px;
+
+}
+
+.ba2 {
+    float: left;
+    padding: 4px;
+    font-size: 20px;
+}
+
+* {
+    text-decoration: none;
+
+}
+
+.table1 {
+    padding: 1px;
+    color: #66ffb3;
+}
+
+/* --------------- */
+footer {
+    padding: 10px 0px 0px 600px;
+    background: gray;
+
+}
+
+.imgcuoi {
+    float: left;
+    padding: 0px 50px 0px 0px;
+}
+
+.table2 {
+    padding: 0px 200px 0px 200px;
+    background: #e6fff2;
+}
+
+.text2 {
+    font-size: 15px;
+}
+
+/* ///////////////// */
+.background2 {
+    background-image: url('img/bkg.jpg');
+}
+
+.thongtinlogin {
+    border: 3px solid green;
+    height: 50px;
+    border-radius: 5px 0 0 5px;
+    color: black;
+    width: 400px;
+    font-size: 20px;
+    margin: 10px 20px 5px 20px;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+
+.login {
+    padding: 200px 0px 200px 1350px;
+}
+
+.tuyensinh {
+    text-align: left;
+    font-size: 40px;
+    margin: 30px;
+    border-radius: 50px;
+}
+
+.butom {
+    width: 200px;
+    height: 55px;
+    border: 1px solid green;
+    background: green;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 25px;
+    margin: 20px 0px 20px 0px;
+}
+
+.tablelogin {
+    background-color: rgb(86, 202, 121, 0.88);
+    border: 2px solid white;
+    border-radius: 50px;
+
+
+}
+
+.imgdt {
+    position: absolute;
+    position: fixed;
+    margin: 700px 0px 100px 90px;
+    width: 100px;
+
+}*{
+    margin: 0px;
+}
