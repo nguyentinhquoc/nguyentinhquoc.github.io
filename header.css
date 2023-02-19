@@ -1,0 +1,138 @@
+header {
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    position: fixed;
+    padding: 50px 0px 0px 100px;
+
+}
+
+.chuchay {
+    font-family: Algerian;
+    background: #cce6ff;
+    position: fixed;
+    width: 100%;
+    padding: 0px 300px 0px 300px;
+    height: 40px;
+}
+
+.chu {
+    color: brown;
+    font-size: 20px;
+    margin: 0px 0px 5px 0px;
+}
+
+.home {
+    padding: 0px 0px 0px 0px;
+    display: flex;
+}
+
+.home_logo {
+    width: 50px;
+    margin: 30px 0px 0px 20px;
+}
+
+.amenu li {
+    list-style: none;
+}
+
+.amenu>li li {
+    background: white;
+    width: 200px;
+    padding: 0px 0px 20px 0px;
+}
+
+ul.amenu li ul {
+    position: absolute;
+    display: none;
+    margin: 13px;
+}
+
+ul.amenu li ul li {
+
+    font-size: smaller;
+    font-variant: small-caps;
+    padding: 12px;
+    font-size: 17px;
+}
+
+ul.amenu li ul li:hover {
+    border-bottom: 2px solid green;
+    background: #fff6de;
+}
+
+.amenu li {
+    position: relative;
+}
+
+.amenu>li:hover>ul {
+    display: block;
+
+}
+
+.amenu>li>a:hover {
+    border-bottom: 3px solid green;
+    color: black;
+}
+
+.list {
+    text-decoration: none;
+    padding: 10px 40px 10px 40px;
+    font-size: 20px;
+    list-style: none;
+
+}
+
+.listgt {
+    padding: 10px 40px 10px 40px;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    list-style: none;
+
+
+}
+
+.amenu {
+    display: flex;
+    margin: 50px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+
+
+}
+
+.menu {
+    position: absolute;
+}
+
+
+
+/* ------- */
+
+
+.timkiem {
+    width: 200px;
+    border: 1px solid green;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+
+}
+
+.buttom {
+    width: 100px;
+    height: 36px;
+    background: #63d0f7;
+    text-align: center;
+    margin: ;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.timkim {
+    padding: 40px 0px 0px 5px;
+}
